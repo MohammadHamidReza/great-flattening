@@ -1,0 +1,22 @@
+﻿# Local environments and caches
+.venv/
+__pycache__/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Large intermediate artifacts (regenerate with the pipeline)
+results/*.parquet
+results/*.npy
+data/
+logs/
+dist/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+paper/*.png
+
+

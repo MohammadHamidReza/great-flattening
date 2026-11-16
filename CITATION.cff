@@ -1,0 +1,20 @@
+﻿cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript."
+title: "The Great Flattening: More Words, Fewer Ideas in AI Research"
+abstract: "I analyze 1.53 million arXiv abstracts (2010-2026) and show that AI research became lexically richer but semantically more homogeneous after the 2022 LLM transition. Mean semantic similarity and effective semantic diversity moved toward homogeneity, and the estimates survive field-specific trends and a length-standardized replication. The pattern is strongest in NLP and largely absent in mathematics and physics."
+authors:
+  - family-names: "Reza"
+    given-names: "Mohammad Hamid"
+    affiliation: "Independent Researcher"
+    email: "mohammadhamidreza7@gmail.com"
+date-released: "2026-11-16"
+license: "MIT"
+repository-code: "https://github.com/MohammadHamidReza/great-flattening"
+keywords:
+  - AI and science
+  - semantic homogenization
+  - LLM-assisted writing
+  - science of science
+  - arXiv
+  - evaluation
+
